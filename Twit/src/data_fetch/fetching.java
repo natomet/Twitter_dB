@@ -9,7 +9,7 @@ import org.apache.log4j.Logger;
 import props.Access_property;
 import props.Properties_assign;
 import props.Property_validate;
-import database.ConnPool;
+
 import database.UserDao;
 
 
